@@ -3,7 +3,7 @@ title: Dependency Injection
 anchor: inyeccion-de-dependencia
 ---
 
-# Dependency Injection {#inyeccion-de-dependencia}
+# Inyección de Dependencias {#inyeccion-de-dependencia}
 
 From [Wikipedia](http://en.wikipedia.org/wiki/Dependency_injection):
 
